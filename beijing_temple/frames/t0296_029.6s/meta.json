@@ -1,0 +1,28 @@
+{
+  "complete": true,
+  "frame_index": 296,
+  "time_s": 29.6,
+  "quantity": "path_loss_dB",
+  "stack_shape": [
+    101,
+    100,
+    100
+  ],
+  "stack_axes": [
+    "z",
+    "y",
+    "x"
+  ],
+  "dtype": "float32",
+  "source_scene": "G:\\Map_Reconstruction\\Map_Reconstruction\\beijing_temple\\dynamic_scene_dt0p1_large_objects\\frames\\t0296_029.6s\\scene.xml",
+  "source_state": "G:\\Map_Reconstruction\\Map_Reconstruction\\beijing_temple\\dynamic_scene_dt0p1_large_objects\\frames\\t0296_029.6s\\state.json",
+  "tx_xyz_m": [
+    50.0,
+    50.0,
+    25.5
+  ],
+  "frequency_hz": 3500000000.0,
+  "samples_per_tx": 200000,
+  "max_depth": 3,
+  "solver_seed": 42
+}
