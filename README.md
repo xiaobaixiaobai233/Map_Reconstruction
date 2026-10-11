@@ -8,6 +8,8 @@
 G:\Map_Reconstruction\Map_Reconstruction\beijing_temple
 ```
 
+![北京古建筑区域的三维地图与行人、车辆、无人机轨迹](beijing_temple/trajectory_map_combined.png)
+
 ## 1. 完整数据处理流程
 
 ```text
